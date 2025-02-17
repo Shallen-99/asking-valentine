@@ -13,7 +13,7 @@ const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
 // array of gifs - in order
 const gifs = ["images/asking.gif", "images/steven-sad-1.gif", "images/spinel-cry.gif", "images/connie-cry.gif"];
 // array of messages
-const buttonMessages = ["Are you sure??", "Pookie please", "Pookie PLEASE", "You can't do this to me!"];
+const buttonMessages = ["Are you sure??", "But I really like you", "I thought we would look cute together", "You can't do this to me!"];
 
 // no button clicked
 noButton.addEventListener("click", () => {
